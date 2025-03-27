@@ -1,1 +1,1 @@
-Math and Computer Science undergrad at UIUC
+Climate-focused SWE
